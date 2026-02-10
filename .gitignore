@@ -1,4 +1,6 @@
 secret.txt
 *.log
-my_cache/
+my_cache/*
+config/*
+!settings.json
 
